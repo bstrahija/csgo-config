@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!_boris.cfg
+!_demo.cfg
+!_influendo.cfg
+!_practice.cfg
+config.cfg
